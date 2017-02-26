@@ -202,6 +202,9 @@ def compare_happiness(couple1 , couple2) :
 
 
 couple_array.sort(compare_fitting, reverse = True)
+print("According to sorted value of Comaptibility")
+for i in range(k):
+	print(couple_array[i].id)
 
 file = open('ans_file_Compatibility.txt','w') 
 file.write('Given Below are Couple According to The sorted value of Comapatibility \n\n \n') 
@@ -217,7 +220,9 @@ with open("ans_file_Compatibility.txt","a") as ansfile :
 
 
 couple_array.sort(compare_happiness , reverse = True)
-
+print("According to sorted value of Happiness")
+for i in range(k):
+	print(couple_array[i].id)
 
 
 
