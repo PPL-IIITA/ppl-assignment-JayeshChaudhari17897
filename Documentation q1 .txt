@@ -1,0 +1,9 @@
+There are 4 classes working in the code .
+
+1 . Boy - this class creates object of type boy and assigns attribute ( name , attractiveness , intelligence , committed , budget ) to that object .
+
+2 . Girl - this class creates object of type girl and assigns attribute ( name , attractiveness , intelligence , committed , maintenance ) to that object .
+
+3 . Couple - this class creates object of type couple consisting of objects of type boy and girl and its id .
+
+4 . qq1_ppl - this class makes the couples based on given constraints and write it to ans.txt file . 

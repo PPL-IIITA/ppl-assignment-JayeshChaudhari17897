@@ -1,0 +1,7 @@
+Given Below are Couple According to The sorted value of Comapatibility 
+
+ 
+Prakash  is committed with Babita ,114
+shyam  is committed with rina ,52
+ram  is committed with radha ,23
+krishna  is committed with Laila ,7

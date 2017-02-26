@@ -1,0 +1,6 @@
+radha , 5 , 6 , Choosy , 80
+tina , 6,7 , Desperate ,100
+rina ,8,9 , Normal ,40
+Babita , 7, 9 , Desperate , 90
+Laila , 9 ,8 , Choosy , 178
+Juliet , 7 , 8 , Normal , 176
