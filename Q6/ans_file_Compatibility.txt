@@ -1,0 +1,6 @@
+Given Below are Couple According to The sorted value of Comapatibility 
+
+ 
+Prakash &&Babita ,114
+shyam &&rina ,52
+ram &&radha ,0
