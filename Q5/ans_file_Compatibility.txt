@@ -1,0 +1,7 @@
+Given Below are Couple According to The sorted value of Comapatibility 
+
+ 
+ram &&rina ,63
+Prakash &&Juliet ,27
+krishna &&Laila ,7
+shyam &&Babita ,1
