@@ -1,0 +1,20 @@
+Luxury ,8 ,9
+Utility, 5, 5
+Essential ,5 ,6
+Luxury ,8, 9
+Luxury ,7 ,5
+Utility ,7 ,7 
+Luxury ,8 ,9 
+Essential ,5 ,5
+Utility , 9, 8
+Essential ,5,9
+Utility ,5,8
+Essential ,9,5
+Utility ,4,7
+Essential , 5 , 3
+Utility, 1,9
+Essential ,5,1
+Utility ,2,4
+Luxury, 7,9
+Luxury ,7 , 4
+Luxury , 6 , 7
